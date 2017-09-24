@@ -1,6 +1,8 @@
 # Portfolio
 Curious about me?
 
+### Blog
+- None
 
 ### Activities
 Contributing Projects
