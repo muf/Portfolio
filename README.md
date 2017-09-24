@@ -1,6 +1,9 @@
 # Portfolio
 Curious about me?
 
+### Email
+- huryip@naver.com
+
 ### Blog
 - None
 
